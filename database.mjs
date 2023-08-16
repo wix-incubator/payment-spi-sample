@@ -1,10 +1,10 @@
-/****************************************************** 
- *                    Database                        *
- * This file includes code that implements basic      *
- * databased functionality for the Connect Acount,    *
- * Create Transaction, and Refund Transaction         *
- * endpoints.                                         *
- ******************************************************/
+/*************************************************** 
+ *                    Database                     *
+ * This file includes code that implements basic   *
+ * database functionality for the Connect Account, *
+ * Create Transaction, and Refund Transaction      *
+ * endpoints.                                      *
+ ***************************************************/
 
 import { createRequire } from "module";
 const require = createRequire(import.meta.url);
